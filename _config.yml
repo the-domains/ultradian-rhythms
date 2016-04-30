@@ -1,0 +1,28 @@
+name: Ultradian Rhythms
+favicon: null
+layout_spectrum: 0.7202918590046465
+typography_spectrum: 0.005613225046545267
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.16573829506523907
+  lightness: 0.036062887171283364
+  saturation: 0.14462817483581603
+  rhythmicContrast: 0.5590631847735494
+purpose: []
